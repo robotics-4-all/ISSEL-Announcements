@@ -10,7 +10,7 @@
 - https://authgr.zoom.us/j/99805670226?pwd=OFlCQ2lzUXkxREJvYXhOUTlTZDQwZz09
 - Meeting ID: 998 0567 0226
 - Passcode: 082211
-- Link παρουσίασης: https://www.dropbox.com/scl/fi/akvxtpkc2pc1x9nvvgw5k/video1882675775.mp4
+- Link παρουσίασης: [https://www.dropbox.com/scl/fi/akvxtpkc2pc1x9nvvgw5k/video1882675775.mp4](https://www.dropbox.com/scl/fi/akvxtpkc2pc1x9nvvgw5k/video1882675775.mp4?rlkey=nym37d33vgjo9vu4nhuzrxt53&dl=0)
 
 Τέλος, βρείτε σχετικές ερωτήσεις σχετικά με τη διαδικασία επιλογής και τις απαιτήσεις στον παρακάτω σύνδεσμο: [Link](https://issel.ee.auth.gr/sixnes-erwtiseis/).
 
