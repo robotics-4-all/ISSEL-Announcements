@@ -11,6 +11,10 @@
 - Meeting ID: 998 0567 0226
 - Passcode: 082211
 
+Σχετικά αρχεία:
+- Παρουσίαση διπλωματικών (pptx): https://docs.google.com/presentation/d/1Tr4uUFnlBrG8Eb9__iL6VFUEUew-dh0If3M7j4KXdeM/edit?usp=sharing
+- Μαγνητοσκόπηση παρουσίασης διπλωματικών: Soon...
+
 Τέλος, βρείτε σχετικές ερωτήσεις σχετικά με τη διαδικασία επιλογής και τις απαιτήσεις στον παρακάτω σύνδεσμο: [Link](https://lab.issel.ee.auth.gr/master-theses-faq/).
 
 Περιεχόμενα:
