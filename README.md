@@ -13,7 +13,7 @@
 
 Σχετικά αρχεία:
 - Παρουσίαση διπλωματικών (pptx): https://docs.google.com/presentation/d/1Tr4uUFnlBrG8Eb9__iL6VFUEUew-dh0If3M7j4KXdeM/edit?usp=sharing
-- Μαγνητοσκόπηση παρουσίασης διπλωματικών: Soon...
+- Μαγνητοσκόπηση παρουσίασης διπλωματικών:  https://www.dropbox.com/scl/fo/e5kbt809zxxwmfjx2dh4z/AODWptt2ccUJ46GurjGtxiQ?rlkey=hlv1r0zk8k0lqlnbqz0y4s47t&dl=0
 
 Τέλος, βρείτε σχετικές ερωτήσεις σχετικά με τη διαδικασία επιλογής και τις απαιτήσεις στον παρακάτω σύνδεσμο: [Link](https://lab.issel.ee.auth.gr/master-theses-faq/).
 
