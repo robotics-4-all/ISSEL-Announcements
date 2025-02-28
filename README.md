@@ -12,8 +12,8 @@
 - Passcode: 082211
 
 Σχετικά αρχεία:
-- Παρουσίαση διπλωματικών (pptx): TBD
-- Μαγνητοσκόπηση παρουσίασης διπλωματικών: TBD
+- Παρουσίαση διπλωματικών (pptx): [link](https://docs.google.com/presentation/d/1aSVvzLo7t_iKmDesjYR6vbRSdfk3dzZTOeIVsVH0EOk/edit?usp=sharing)
+- Μαγνητοσκόπηση παρουσίασης διπλωματικών: [link](https://www.dropbox.com/scl/fi/g4dx9m0itkd14gchh8f0z/DiplomaThesesSpring25_Presentation.mp4?rlkey=x2b5hcd0fmz0003ro9137qx16&dl=0)
 
 Τέλος, βρείτε σχετικές ερωτήσεις σχετικά με τη διαδικασία επιλογής και τις απαιτήσεις στον παρακάτω σύνδεσμο: [Link](https://issel.ee.auth.gr/master-theses-faq/).
 
